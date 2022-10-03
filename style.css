@@ -76,6 +76,7 @@ body {
   display: flex;
   align-items: center;
   padding-top: 3rem;
+  margin-left: 15px;
 }
 
 .contact-info ul {
@@ -104,6 +105,7 @@ body {
 }
 .skills ul li p {
   padding: 0.4rem 0;
+  margin-left: 18px;
   color: #d6dbdfaf;
   font-size: 18px;
   letter-spacing: 1px;
@@ -165,7 +167,7 @@ body {
 }
 
 .exp-company-name,
-.education-school-name,
+.education-scholl-name,
 .awards-company-name {
   font-size: 25px;
   font-weight: bold;
@@ -173,6 +175,7 @@ body {
   letter-spacing: 1px;
   color: #fdb44b;
   padding-bottom: 0.4rem;
+  margin-top: 10px;
 }
 
 .exp-time-period,
@@ -192,6 +195,7 @@ body {
   letter-spacing: 1px;
   color: #fdb44b;
   padding-bottom: 0.4rem;
+  margin-top: 10px;
 }
 
 .exp-desc,
