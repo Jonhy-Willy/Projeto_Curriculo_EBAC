@@ -6,7 +6,7 @@
 
 Projeto construído no evento Jornada Dev da Ebac.
 
-[ 🔗 Clique aqui para acessar](https://jonhy-willy.github.io/Projeto_eSports_Rocketseat/)
+[ 🔗 Clique aqui para acessar](https://jonhy-willy.github.io/Projeto_Curriculo_EBAC/)
 
 # 🛠 Tecnologias
 
